@@ -1,6 +1,7 @@
-main: ${mainClass}
-name: ${name}
-version: ${version}
-authors: [StupidDrew9]
+name: DynmapBorders
+version: 1.0.0
+main: io.polarismc.dynmapborders.DynmapBorders
+api-version: 1.19
+authors: [ 0xBit ]
 depend: [dynmap]
-api-version: 1.16
+description: Dynmap Borders
